@@ -140,7 +140,7 @@ PACKAGES+=" luajit"
 PACKAGES+=" bc"
 
 # Java.
-PACKAGES+=" openjdk-8-jdk openjdk-16-jdk"
+PACKAGES+=" openjdk-8-jdk openjdk-21-jdk"
 
 # needed by ovmf
 PACKAGES+=" libarchive-tools"
